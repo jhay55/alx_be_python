@@ -1,6 +1,5 @@
 #This is going to be my first python script file for the ALx Program. Let's GO!
 
-
 # Defining the predetermined variables
 number1 = 10
 number2 = 5
